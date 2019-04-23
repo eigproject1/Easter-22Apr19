@@ -1,0 +1,17 @@
+Geared by EIG
+
+How to install: 
+*Notes: Software cannot be run out of external device, user must have administrator access
+
+If your organization has a webpage ask when where you can locate their download button. If not you can find a 
+download button on their Facebook page where you can click it.
+
+After downloading the zip folder extract it’s contents to a place of your choosing. Next open software folder from 
+where you extracted it to. 
+
+Next run BOTH Geared files as administrator. This can be achieved by right clicking them and selecting that option.
+
+Congratulations! You have installed Geared, now that the hard work is done you can sit back and relax. On your 
+computer's idle time you can watch as your spare resources are used to donate money to your organization. 
+
+

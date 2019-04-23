@@ -1,0 +1,12 @@
+15:20:07:030	42dc	args: -zpool eu1-zcash.flypool.org:3333 -zwal t1RjQjDbPQ9Syp97DHFyzvgZhcjgLTMwhaq -zpsw z 
+15:20:07:037	42dc	
+15:20:07:043	42dc	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+15:20:07:051	42dc	บ           Claymore's ZCash AMD GPU Miner v12.0 Beta            บ
+15:20:07:059	42dc	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+15:20:07:068	42dc	
+15:20:07:277	42dc	ZEC: 1 pool is specified
+15:20:07:284	42dc	Main ZCash pool is eu1-zcash.flypool.org:3333
+15:20:09:627	42dc	OpenCL platform: NVIDIA CUDA
+15:20:09:633	42dc	OpenCL platform: Intel(R) OpenCL
+15:20:09:640	42dc	AMD OpenCL platform not found 
+15:20:09:647	42dc	No AMD OPENCLGPUs found, exit
